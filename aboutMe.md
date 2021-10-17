@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Aman Choudhary
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning React Js/Native,.net core
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ? mail me @ amanchoudhary.2014@outlook.com
+
